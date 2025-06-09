@@ -16,7 +16,7 @@ This project aims to help law enforcement agencies, city planners, and public sa
 |:--------------------------------|:---------------------------------------------|
 | `Train.xlsx`                    | Training dataset with historical crime data |
 | `Test.csv`                      | Test dataset (incident counts to predict)   |
-| `Time_Series_Forecasting.ipynb` | Full ML workflow notebook                    |
+| `FBI's Crime Investigation.ipynb` | Full ML workflow notebook                    |
 | `crime_forecasting_xgb_model.pkl` | Trained XGBoost regression model           |
 | `safecity predictor.py`         | Streamlit dashboard for predictions         |
 | `Final_Crime_Forecast_Submission`| Final result of prediction                |
